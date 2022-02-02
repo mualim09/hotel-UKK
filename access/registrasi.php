@@ -83,7 +83,7 @@ require '../control/control.php';
 						</div>
 					</div>
 					<div class="footer">
-						Baratheon Hotel &#169; 2020, Denny Putra Y.P.
+						Paraya Hotel &#169; 2022, Paraya Hotel
 					</div>
 				</div>
 			</div>
