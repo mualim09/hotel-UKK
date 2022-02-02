@@ -24,7 +24,7 @@ if (!isset($_SESSION['username'])) { // Jika tidak ada session username berarti 
             <div>
 
                 <img src="assets/image/logo1.png" alt="">
-                <h2>Baratheon Hotel</h2>
+                <h2>Paraya Hotel</h2>
             </div>
             <ul>
                 <li><a href="index.php" id="view">Home</a></li>
@@ -38,7 +38,7 @@ if (!isset($_SESSION['username'])) { // Jika tidak ada session username berarti 
         <div class="bgim">
             <div class="jumbotron">
                 <img src="assets/image/logo2.png" alt="">
-                <h1>Baratheon Hotel</h1>
+                <h1>Paraya Hotel</h1>
                 <p>Di sini Kami menawarkan Nirwana pada Anda</p>
             </div>
         </div>
@@ -193,7 +193,7 @@ if (!isset($_SESSION['username'])) { // Jika tidak ada session username berarti 
     </article>
     <div class="bgim">
         <footer>
-            <p>Baratheon Hotel &#169; 2020, Denny Putra Y.P.</p>
+            <p>Paraya Hotel &#169; 2022, Paraya Hotel</p>
         </footer>
     </div>
     <script src="assets/js/script.js"></script>
